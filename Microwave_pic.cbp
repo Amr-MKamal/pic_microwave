@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Microwave_pic" />
+		<Option pch_mode="2" />
+		<Option compiler="sdcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Microwave_pic" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="5" />
+				<Option compiler="sdcc" />
+				<Compiler>
+					<Add option="-mpic16" />
+					<Add option="--opt-code-size" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="7SEG.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controls.h" />
+		<Unit filename="DIO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DIO.h" />
+		<Unit filename="Sensors.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="controls.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="keypad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stdtypes.h" />
+		<Unit filename="timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="timer.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
