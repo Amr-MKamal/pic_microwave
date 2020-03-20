@@ -7,3 +7,8 @@ This project was meant to be used as an educational tool to better understand ho
 The documentation used in this project are called class documentation which follows a (gnu like library documentation).
 Please Refer to Design Documentation for more .
 Kindly refer to PIC Datasheet . Picgnios Manual , and embedded design patterns to better understand the project .
+Note: All current aspects of the project is done without any testing , shortly this project is missing :
+1- Porting the project to simulation with proteus ISIS 
+2- layout diagrams 
+3-HAL Documentation , Main.C documetnation 
+4-Testing Plans & Cases & Documents ( it's planned to apply ISTQB knowledge on this project, you can help ) 
