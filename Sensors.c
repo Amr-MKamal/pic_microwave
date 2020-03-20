@@ -1,6 +1,6 @@
 //door closed push button
 //weight sensor (food is in ) push button
-#include "DIO.h"
+#include"MCAL_PIC18F.h"
 /*
 u8_t Sensors_get_door_status(void)
 Description: gives signal to the timer to start decreasing

@@ -7,8 +7,7 @@
 #define set_bit(var,bit)  var|=(1<<bit)
 #define set_bits(var,bit,val)  var|=(val<<bit)
 #define clr_bits(var,bit,val)  var&=~(!val<<bit)
-#define PORT_OUT 0x00
-#define PORT_IN 0xff
+
 typedef unsigned char u8_t;
 typedef signed char s8_t;
 typedef unsigned short int  u16_t;

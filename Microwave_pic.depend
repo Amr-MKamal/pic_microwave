@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1583428202 source:c:\users\amr mohammed kamal\desktop\microwave project\src\sensors.c
+	"MCAL_PIC18F.h"
+
+1583434219 c:\users\amr mohammed kamal\desktop\microwave project\src\mcal_pic18f.h
+	"stdtypes.h"
+	<pic16/pic18f452.h>
+
+1583427692 c:\users\amr mohammed kamal\desktop\microwave project\src\stdtypes.h
+
+1583434235 source:c:\users\amr mohammed kamal\desktop\microwave project\src\mcal_pic18f_interruptmanager.c
+	"MCAL_PIC18F.h"
+	<pic16/pic18f452.h>
+
+1583079895 c:\users\amr mohammed kamal\desktop\microwave project\src\timer.h
+
+1583433742 source:c:\users\amr mohammed kamal\desktop\microwave project\src\7seg.c
+	"HAL_PicGenios.h"
+
+1583432828 c:\users\amr mohammed kamal\desktop\microwave project\src\controls.h
+	"MCAL_PIC18F.h"
+	"stdtypes.h"
+
+1583433771 source:c:\users\amr mohammed kamal\desktop\microwave project\src\controls.c
+	<pic16/delay.h>
+	"Controls.h"
+	"HAL_PicGenios.h"
+
+1583433391 source:c:\users\amr mohammed kamal\desktop\microwave project\src\mcal_pic18f_timer0module.c
+	"MCAL_PIC18F.h"
+	<pic16/pic18f452.h>
+	<stdio.h>
+	<math.h>
+
+1583434444 source:c:\users\amr mohammed kamal\desktop\microwave project\src\main.c
+	"HAL_PicGenios.h"
+	"MCAL_PIC18F.h"
+
+1583434444 source:c:\users\amr mohammed kamal\desktop\microwave project\src\mcal_pic18f_dio.c
+	"stdtypes.h"
+	"MCAL_PIC18F.h"
+	<pic16/pic18f452.h>
+	<stdio.h>
+
+1583433783 source:c:\users\amr mohammed kamal\desktop\microwave project\src\keypad.c
+	"HAL_PicGenios.h"
+	<pic16/delay.h>
+
+1583433724 c:\users\amr mohammed kamal\desktop\microwave project\src\hal_picgenios.h
+	"MCAL_PIC18F.h"
+	"stdtypes.h"
+

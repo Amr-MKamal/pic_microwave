@@ -21,12 +21,15 @@
 		<Unit filename="7SEG.C">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="Controls.h" />
-		<Unit filename="DIO.c">
+		<Unit filename="HAL_PicGenios.h" />
+		<Unit filename="MCAL_PIC18F.h" />
+		<Unit filename="MCAL_PIC18F_DIO.C">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="DIO.h" />
-		<Unit filename="Sensors.c">
+		<Unit filename="MCAL_PIC18F_InterruptManager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MCAL_PIC18F_Timer0Module.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="controls.c">
@@ -39,10 +42,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="stdtypes.h" />
-		<Unit filename="timer.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="timer.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
